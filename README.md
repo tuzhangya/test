@@ -1,2 +1,2 @@
-# test
-test for study
+# tesztelek,! ? belekezdtem, folytatom
+test for study, madodik sor???
